@@ -1,3 +1,6 @@
 Add a new member
 Update ios
 Play chess
+Play chess
+Don't play chess
+Go outside

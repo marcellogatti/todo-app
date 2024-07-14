@@ -1,7 +1,3 @@
-Add a new member
-Test
-Test
-Test
-Test
-Test 1
-Test 11
+Play chess
+Go out
+Don't be anxious
